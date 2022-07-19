@@ -11,7 +11,7 @@
 Projeto de uma API para um blog, feita com NodeJS. Utilizei o framework NestJS para construir a API, conta com recursos de cadastro de usuário, login, autenticação com JWT, e também toda a parte de posts (CRUD). A API tem suporte a tratamento de erros com exception filter e interceptors, além de estar 100% documentada usando a ferramenta Swagger. O Banco de dados escolhido foi o Postgres, mas pode ser mudado facilmente, pois a API está muito bem arquitetada e totalmente separada por módulos.
 
 ## Instruções
-Para ter acesso a documentação, acesse o endpoint ...
+Para ter acesso a documentação, acesse o endpoint "/docs"
 
 ## Pré-requisitos
 Se desejar clonar este repositórios na sua máquina, você precisa ter instalado as seguintes ferramentas: [Git](https://git-scm.com), [Node](https://nodejs.org/). Além disso, é interessante que tenha instalado um editor de código como o [VSCode](htts://code.visualstudio.com/).
